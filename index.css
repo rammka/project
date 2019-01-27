@@ -33,3 +33,12 @@ a {
     font-weight: lighter;
     color: white;
 }
+.header_margin {
+    margin-bottom: 0px;
+}
+.section_1_margin {
+    padding: 30px;
+}
+.section_2_margin {
+    padding-bottom: 30px;
+}
