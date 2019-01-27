@@ -1,0 +1,35 @@
+body {
+    font-size: 22px;
+    line-height: 34px;
+}
+main {
+    background-image: url(/Users/rammk_000/Desktop/project-1166f6512fb69b6619013c72c3a86863e16234c6/картошка3.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    letter-spacing: 1px;
+    color: white;
+    text-shadow: 2px 6px 8px black;
+}
+h1 {
+    font-family: 'akrobat';
+    color: royalblue;
+}
+h2 {
+    font-family: 'arial';
+}
+header,
+nav {
+    background-color: #500073;
+    color: white;
+    letter-spacing: 1px;
+}
+a {
+    font-variant: small-caps;
+}
+.aside_right {
+    text-align: right;
+    font-style: italic;
+    font-weight: lighter;
+    color: white;
+}
