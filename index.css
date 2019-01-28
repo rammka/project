@@ -3,7 +3,7 @@ body {
     line-height: 34px;
 }
 main {
-    background-image: url(/Users/rammk_000/Desktop/project-1166f6512fb69b6619013c72c3a86863e16234c6/картошка3.jpg);
+    background-image: url(./kartoshka.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
@@ -12,11 +12,11 @@ main {
     text-shadow: 2px 6px 8px black;
 }
 h1 {
-    font-family: 'akrobat';
+    font-family: Arial;
     color: royalblue;
 }
 h2 {
-    font-family: 'arial';
+    font-family: Arial;
 }
 header,
 nav {
@@ -33,12 +33,12 @@ a {
     font-weight: lighter;
     color: white;
 }
-.header_margin {
+.header {
     margin-bottom: 0px;
 }
-.section_1_margin {
+.section_1 {
     padding: 30px;
 }
-.section_2_margin {
+.section_2 {
     padding-bottom: 30px;
 }
