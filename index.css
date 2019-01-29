@@ -27,18 +27,18 @@ nav {
 a {
     font-variant: small-caps;
 }
-.aside_right {
-    text-align: right;
-    font-style: italic;
-    font-weight: lighter;
-    color: white;
-}
 .header {
     margin-bottom: 0px;
 }
 .first {
     padding: 30px;
 }
-.second {
+.first__aside {
+    text-align: right;
+    font-style: italic;
+    font-weight: lighter;
+    color: white;
+}
+.second__h2 {
     padding-bottom: 30px;
 }
